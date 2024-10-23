@@ -1,6 +1,6 @@
 <?php 
 
-$html_footer = '
+$Footer = '
         <footer class="footer-section pt-120 overflow-hidden">
             <div class="footer-shape">
                 <img src="assets/img/shapes/footer-shape.png" alt="shape">

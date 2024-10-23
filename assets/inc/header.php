@@ -1,5 +1,5 @@
 <?php 
-$html_header = '
+$Header = '
     <!-- header-area-start -->
     <header class="header sticky-active">
         <div class="middle-header">
