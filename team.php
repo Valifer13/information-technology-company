@@ -31,7 +31,7 @@ include 'assets/inc/SubFooter.php';
 
 <body>
     <?= $SubHeader ?>
-    <?= PageHeader("Tim Kami") ?>
+    <?= PageHeader("Tim Kami", "Tim") ?>
     <!-- Content Start -->
 
     <section class="team-section-4 pt-120 pb-120">

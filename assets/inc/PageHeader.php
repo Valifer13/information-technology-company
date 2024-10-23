@@ -1,7 +1,10 @@
 <?php
 
-function PageHeader($title)
+function PageHeader($title, $crumb = "default")
 {
+    if ($crumb == "default") {
+        $crumb = $title;
+    }
     return "
         <section class=\"page-header\">
             <div class=\"bg-img\" data-background=\"assets/img/bg-img/page-header-bg.jpg\"></div>
@@ -21,7 +24,7 @@ function PageHeader($title)
                         </span>
                         <span class=\"icon\">/</span>
                         <span class=\"inner\">
-                            <span>{$title}</span>
+                            <span>{$crumb}</span>
                         </span>
                     </h4>
                 </div>
