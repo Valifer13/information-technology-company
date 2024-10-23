@@ -49,7 +49,7 @@ include 'assets/inc/SubFooter.php';
                         </div>
                         <div class="project-content">
                             <span>IT Development</span>
-                            <h3 class="title"><a href="project-details.html">Transformasi Digital untuk Perusahaan Ritel</a></h3>
+                            <h3 class="title"><a href="project-details.php">Transformasi Digital untuk Perusahaan Ritel</a></h3>
                         </div>
                     </div>
                 </div>
@@ -65,7 +65,7 @@ include 'assets/inc/SubFooter.php';
                         </div>
                         <div class="project-content">
                             <span>Mobile Development</span>
-                            <h3 class="title"><a href="project-details.html">Pengembangann Aplikasi Mobile untuk Startup Teknologi</a></h3>
+                            <h3 class="title"><a href="project-details.php">Pengembangann Aplikasi Mobile untuk Startup Teknologi</a></h3>
                         </div>
                     </div>
                 </div>
@@ -81,12 +81,12 @@ include 'assets/inc/SubFooter.php';
                         </div>
                         <div class="project-content">
                             <span>Solusi IT</span>
-                            <h3 class="title"><a href="project-details.html">Solusi Analitik Data untuk Perusahaan Keuangan</a></h3>
+                            <h3 class="title"><a href="project-details.php">Solusi Analitik Data untuk Perusahaan Keuangan</a></h3>
                         </div>
                     </div>
                 </div>
             <div class="project-bottom-btn text-center mt-50">
-                <a href="project-details.html" class="bz-primary-btn">Baca Detail <i class="fa-regular fa-arrow-right"></i></a>
+                <a href="project-details.php" class="bz-primary-btn">Baca Detail <i class="fa-regular fa-arrow-right"></i></a>
             </div>
         </div>
     </section>
