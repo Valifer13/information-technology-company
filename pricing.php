@@ -118,7 +118,7 @@ include 'assets/inc/SubFooter.php';
                         <div class="feature-content">
                             <h3 class="title">Konsultasi Bisnis</h3>
                             <p>Kami membantu merumuskan strategi bisnis yang efektif dan disesuaikan untuk meningkatkan efisiensi dan profitabilitas.</p>
-                            <a href="service-details.html" class="read-more">Baca Detail<i class="fa-regular fa-arrow-right"></i></a>
+                            <a href="service-details.php" class="read-more">Baca Detail<i class="fa-regular fa-arrow-right"></i></a>
                         </div>
                     </div>
                 </div>
@@ -129,7 +129,7 @@ include 'assets/inc/SubFooter.php';
                         <div class="feature-content">
                             <h3 class="title">Pendekatan Klien-Sentris</h3>
                             <p>Kami fokus pada memahami kebutuhan klien dan memberikan solusi yang dipersonalisasi untuk mencapai hasil yang optimal.</p>
-                            <a href="service-details.html" class="read-more">Baca Detail<i class="fa-regular fa-arrow-right"></i></a>
+                            <a href="service-details.php" class="read-more">Baca Detail<i class="fa-regular fa-arrow-right"></i></a>
                         </div>
                     </div>
                 </div>
@@ -140,7 +140,7 @@ include 'assets/inc/SubFooter.php';
                         <div class="feature-content">
                             <h3 class="title">Teknologi Terkini</h3>
                             <p>Kami memanfaatkan teknologi terbaru untuk memastikan bahwa layanan kami tetap relevan dan efektif dalam memenuhi kebutuhan klien.</p>
-                            <a href="service-details.html" class="read-more">Baca Detail<i class="fa-regular fa-arrow-right"></i></a>
+                            <a href="service-details.php" class="read-more">Baca Detail<i class="fa-regular fa-arrow-right"></i></a>
                         </div>
                     </div>
                 </div>

@@ -54,8 +54,8 @@ include 'assets/inc/Footer.php';
                         <p>Kami mengkhususkan diri dalam memberikan solusi komprehensif untuk membantu para pebisnis mengatasi masalah mereka yang paling mendesak.</p>
                     </div>
                     <div class="hero-btn-wrap">
-                        <a href="contact.html" class="bz-primary-btn">Kontak Kami<i class="fa-regular fa-arrow-right"></i></a>
-                        <a href="service.html" class="bz-primary-btn hero-btn">Layanan Kami</a>
+                        <a href="contact.php" class="bz-primary-btn">Kontak Kami<i class="fa-regular fa-arrow-right"></i></a>
+                        <a href="service.php" class="bz-primary-btn hero-btn">Layanan Kami</a>
                     </div>
                 </div>
             </div>
@@ -97,7 +97,7 @@ include 'assets/inc/Footer.php';
                             </div>
                         </div>
                         <div class="about-btn-wrap fade-top">
-                            <a href="contact.html" class="bz-primary-btn">Kontak Kami<i class="fa-regular fa-arrow-right"></i></a>
+                            <a href="contact.php" class="bz-primary-btn">Kontak Kami<i class="fa-regular fa-arrow-right"></i></a>
                             <a href="tel:+6283119587745" class="bz-transparent-btn"><i class="fa-sharp fa-solid fa-phone-volume"></i>+62 831 1958 7745</a>
                         </div>
                     </div>
@@ -187,9 +187,9 @@ include 'assets/inc/Footer.php';
                     <div class="service-item">
                         <div class="icon"><img src="assets/img/icon/service-icon-1.png" alt="icon"></div>
                         <div class="service-content">
-                            <h3 class="title"><a href="service-details.html">Konsultasi Bisnis</a></h3>
+                            <h3 class="title"><a href="service-details.php">Konsultasi Bisnis</a></h3>
                             <p>Layanan konsultasi untuk membantu perusahaan merancang strategi bisnis, meningkatkan efisiensi operasional, dan mencapai tujuan jangka panjang.</p>
-                            <a href="service-details.html" class="bz-primary-btn">Baca Selengkapnya <i class="fa-regular fa-arrow-right"></i></a>
+                            <a href="service-details.php" class="bz-primary-btn">Baca Selengkapnya <i class="fa-regular fa-arrow-right"></i></a>
                         </div>
                     </div>
                 </div>
@@ -197,9 +197,9 @@ include 'assets/inc/Footer.php';
                     <div class="service-item">
                         <div class="icon"><img src="assets/img/icon/service-icon-2.png" alt="icon"></div>
                         <div class="service-content">
-                            <h3 class="title"><a href="service-details.html">Solusi Digital</a></h3>
+                            <h3 class="title"><a href="service-details.php">Solusi Digital</a></h3>
                             <p>Pengembangan aplikasi dan perangkat lunak yang inovatif untuk mendukung operasi bisnis dan memenuhi kebutuhan teknologi modern.</p>
-                            <a href="service-details.html" class="bz-primary-btn">Baca Selengkapnya <i class="fa-regular fa-arrow-right"></i></a>
+                            <a href="service-details.php" class="bz-primary-btn">Baca Selengkapnya <i class="fa-regular fa-arrow-right"></i></a>
                         </div>
                     </div>
                 </div>
@@ -207,9 +207,9 @@ include 'assets/inc/Footer.php';
                     <div class="service-item">
                         <div class="icon"><img src="assets/img/icon/service-icon-3.png" alt="icon"></div>
                         <div class="service-content">
-                            <h3 class="title"><a href="service-details.html">Pengembangan Software</a></h3>
+                            <h3 class="title"><a href="service-details.php">Pengembangan Software</a></h3>
                             <p>Layanan digital termasuk desain web, pemasaran digital, dan pengelolaan media sosial untuk meningkatkan kehadiran online dan engagement klien.</p>
-                            <a href="service-details.html" class="bz-primary-btn">Baca Selengkapnya <i class="fa-regular fa-arrow-right"></i></a>
+                            <a href="service-details.php" class="bz-primary-btn">Baca Selengkapnya <i class="fa-regular fa-arrow-right"></i></a>
                         </div>
                     </div>
                 </div>
@@ -256,7 +256,7 @@ include 'assets/inc/Footer.php';
                                         </div>
                                         <h4 class="title">Engine Solution</h4>
                                     </div>
-                                    <a href="contact.html" class="bz-primary-btn">Dapatkan Penawaran</a>
+                                    <a href="contact.php" class="bz-primary-btn">Dapatkan Penawaran</a>
                                 </div>
                             </div>
                             <div class="tab-pane fade" id="profile" role="tabpanel" aria-labelledby="profile-tab">
@@ -270,7 +270,7 @@ include 'assets/inc/Footer.php';
                                         </div>
                                         <h4 class="title">Engine Solution</h4>
                                     </div>
-                                    <a href="contact.html" class="bz-primary-btn">Dapatkan Penawaran</a>
+                                    <a href="contact.php" class="bz-primary-btn">Dapatkan Penawaran</a>
                                 </div>
                             </div>
                             <div class="tab-pane fade" id="contact" role="tabpanel" aria-labelledby="contact-tab">
@@ -284,7 +284,7 @@ include 'assets/inc/Footer.php';
                                         </div>
                                         <h4 class="title">Engine Solution</h4>
                                     </div>
-                                    <a href="contact.html" class="bz-primary-btn">Dapatkan Penawaran</a>
+                                    <a href="contact.php" class="bz-primary-btn">Dapatkan Penawaran</a>
                                 </div>
                             </div>
                         </div>
@@ -318,7 +318,7 @@ include 'assets/inc/Footer.php';
                         </div>
                         <div class="team-content-wrap">
                             <div class="team-content">
-                                <h3 class="title"><a href="team-details.html">Markus Finland</a></h3>
+                                <h3 class="title"><a href="team-details.php">Markus Finland</a></h3>
                                 <span>Kepala Pengembangan Software</span>
                             </div>
                             <div class="team-social">
@@ -346,7 +346,7 @@ include 'assets/inc/Footer.php';
                         </div>
                         <div class="team-content-wrap">
                             <div class="team-content">
-                                <h3 class="title"><a href="team-details.html">Devon Lane</a></h3>
+                                <h3 class="title"><a href="team-details.php">Devon Lane</a></h3>
                                 <span>Pelatih Bisnis</span>
                             </div>
                             <div class="team-social">
@@ -374,7 +374,7 @@ include 'assets/inc/Footer.php';
                         </div>
                         <div class="team-content-wrap">
                             <div class="team-content">
-                                <h3 class="title"><a href="team-details.html">Viv Richards</a></h3>
+                                <h3 class="title"><a href="team-details.php">Viv Richards</a></h3>
                                 <span>Kepala Keuangan</span>
                             </div>
                             <div class="team-social">
@@ -402,7 +402,7 @@ include 'assets/inc/Footer.php';
                         </div>
                         <div class="team-content-wrap">
                             <div class="team-content">
-                                <h3 class="title"><a href="team-details.html">John Smith</a></h3>
+                                <h3 class="title"><a href="team-details.php">John Smith</a></h3>
                                 <span>Kepala Pemasaran</span>
                             </div>
                             <div class="team-social">
@@ -447,10 +447,10 @@ include 'assets/inc/Footer.php';
                                 <img src="assets/img/project/project-1.webp" alt="project">
                             </div>
                             <div class="project-content">
-                                <h3 class="title"><a href="project-details.html">Transformasi Digital untuk Perusahaan Ritel</a></h3>
+                                <h3 class="title"><a href="project-details.php">Transformasi Digital untuk Perusahaan Ritel</a></h3>
                                 <span>Studi Kasus, Berkembang</span>
                                 <p>Proyek ini melibatkan perombakan total sistem IT perusahaan ritel besar untuk meningkatkan efisiensi operasional dan pengalaman pelanggan. Kami mengimplementasikan solusi perangkat lunak kustom dan strategi pemasaran digital untuk hasil yang maksimal.</p>
-                                <a href="project-details.html" class="bz-primary-btn">Perlihatkan Projek</a>
+                                <a href="project-details.php" class="bz-primary-btn">Perlihatkan Projek</a>
                             </div>
                         </div>
                     </div>
@@ -462,10 +462,10 @@ include 'assets/inc/Footer.php';
                                 <img src="assets/img/project/project-2.webp" alt="project">
                             </div>
                             <div class="project-content">
-                                <h3 class="title"><a href="project-details.html">Aplikasi Mobile untuk Startup Teknologi</a></h3>
+                                <h3 class="title"><a href="project-details.php">Aplikasi Mobile untuk Startup Teknologi</a></h3>
                                 <span>Studi Kasus, Berkembang</span>
                                 <p>Kami merancang dan mengembangkan aplikasi mobile inovatif untuk startup teknologi baru, mencakup fitur-fitur canggih yang mendukung pertumbuhan bisnis dan meningkatkan keterlibatan pengguna.</p>
-                                <a href="project-details.html" class="bz-primary-btn">Perlihatkan Projek</a>
+                                <a href="project-details.php" class="bz-primary-btn">Perlihatkan Projek</a>
                             </div>
                         </div>
                     </div>
@@ -477,10 +477,10 @@ include 'assets/inc/Footer.php';
                                 <img src="assets/img/project/project-3.webp" alt="project">
                             </div>
                             <div class="project-content">
-                                <h3 class="title"><a href="project-details.html">Solusi Analitik Data untuk Perusahaan Keuangan</a></h3>
+                                <h3 class="title"><a href="project-details.php">Solusi Analitik Data untuk Perusahaan Keuangan</a></h3>
                                 <span>Studi Kasus, Berkembang</span>
                                 <p> Proyek ini menyediakan solusi analitik data yang mendalam untuk perusahaan keuangan besar, memungkinkan mereka untuk mengoptimalkan keputusan investasi dan operasional melalui wawasan berbasis data.</p>
-                                <a href="project-details.html" class="bz-primary-btn">Perlihatkan Projek</a>
+                                <a href="project-details.php" class="bz-primary-btn">Perlihatkan Projek</a>
                             </div>
                         </div>
                     </div>
@@ -559,10 +559,10 @@ include 'assets/inc/Footer.php';
                                     <li><i class="fa-regular fa-calendar"></i>01 Sep, 2024</li>
                                     <li><i class="fa-regular fa-user"></i>by Sarah Johnson</li>
                                 </ul>
-                                <h3 class="title"><a href="blog-details.html">Meningkatkan Efisiensi dengan Teknologi Terbaru</a></h3>
+                                <h3 class="title"><a href="blog-details.php">Meningkatkan Efisiensi dengan Teknologi Terbaru</a></h3>
                             </div>
                             <div class="post-bottom">
-                                <a class="read-more" href="blog-details.html">Baca Selengkapnya<i class="fa-solid fa-chevrons-right"></i></a>
+                                <a class="read-more" href="blog-details.php">Baca Selengkapnya<i class="fa-solid fa-chevrons-right"></i></a>
                             </div>
                         </div>
                     </div>
@@ -578,10 +578,10 @@ include 'assets/inc/Footer.php';
                                     <li><i class="fa-regular fa-calendar"></i>15 Aug, 2024</li>
                                     <li><i class="fa-regular fa-user"></i>by Michael Thompson</li>
                                 </ul>
-                                <h3 class="title"><a href="blog-details.html">Strategi Pemasaran Digital yang Efektif di 2024</a></h3>
+                                <h3 class="title"><a href="blog-details.php">Strategi Pemasaran Digital yang Efektif di 2024</a></h3>
                             </div>
                             <div class="post-bottom">
-                                <a class="read-more" href="blog-details.html">Baca Selengkapnya<i class="fa-solid fa-chevrons-right"></i></a>
+                                <a class="read-more" href="blog-details.php">Baca Selengkapnya<i class="fa-solid fa-chevrons-right"></i></a>
                             </div>
                         </div>
                     </div>
@@ -597,10 +597,10 @@ include 'assets/inc/Footer.php';
                                     <li><i class="fa-regular fa-calendar"></i>30 Jul, 2024</li>
                                     <li><i class="fa-regular fa-user"></i>by Emily Clark</li>
                                 </ul>
-                                <h3 class="title"><a href="blog-details.html">Mengoptimalkan Data untuk Keputusan Bisnis yang Lebih Baik</a></h3>
+                                <h3 class="title"><a href="blog-details.php">Mengoptimalkan Data untuk Keputusan Bisnis yang Lebih Baik</a></h3>
                             </div>
                             <div class="post-bottom">
-                                <a class="read-more" href="blog-details.html">Baca Selengkapnya<i class="fa-solid fa-chevrons-right"></i></a>
+                                <a class="read-more" href="blog-details.php">Baca Selengkapnya<i class="fa-solid fa-chevrons-right"></i></a>
                             </div>
                         </div>
                     </div>

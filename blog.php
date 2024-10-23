@@ -48,10 +48,10 @@ include 'assets/inc/SubFooter.php';
                                     <li><i class="fa-regular fa-calendar"></i>01 Sep, 2024</li>
                                     <li><i class="fa-regular fa-user"></i>by Sarah Johnson</li>
                                 </ul>
-                                <h3 class="title"><a href="blog-details.html">Meningkatkan Efisiensi dengan Teknologi Terbaru</a></h3>
+                                <h3 class="title"><a href="blog-details.php">Meningkatkan Efisiensi dengan Teknologi Terbaru</a></h3>
                             </div>
                             <div class="post-bottom">
-                                <a class="read-more" href="blog-details.html">Baca Selengkapnya<i class="fa-solid fa-chevrons-right"></i></a>
+                                <a class="read-more" href="blog-details.php">Baca Selengkapnya<i class="fa-solid fa-chevrons-right"></i></a>
                             </div>
                         </div>
                     </div>
@@ -67,10 +67,10 @@ include 'assets/inc/SubFooter.php';
                                     <li><i class="fa-regular fa-calendar"></i>15 Aug, 2024</li>
                                     <li><i class="fa-regular fa-user"></i>by Michael Thompson</li>
                                 </ul>
-                                <h3 class="title"><a href="blog-details.html">Strategi Pemasaran Digital yang Efektif di 2024</a></h3>
+                                <h3 class="title"><a href="blog-details.php">Strategi Pemasaran Digital yang Efektif di 2024</a></h3>
                             </div>
                             <div class="post-bottom">
-                                <a class="read-more" href="blog-details.html">Baca Selengkapnya<i class="fa-solid fa-chevrons-right"></i></a>
+                                <a class="read-more" href="blog-details.php">Baca Selengkapnya<i class="fa-solid fa-chevrons-right"></i></a>
                             </div>
                         </div>
                     </div>
@@ -86,10 +86,10 @@ include 'assets/inc/SubFooter.php';
                                     <li><i class="fa-regular fa-calendar"></i>30 Jul, 2024</li>
                                     <li><i class="fa-regular fa-user"></i>by Emily Clark</li>
                                 </ul>
-                                <h3 class="title"><a href="blog-details.html">Mengoptimalkan Data untuk Keputusan Bisnis yang Lebih Baik</a></h3>
+                                <h3 class="title"><a href="blog-details.php">Mengoptimalkan Data untuk Keputusan Bisnis yang Lebih Baik</a></h3>
                             </div>
                             <div class="post-bottom">
-                                <a class="read-more" href="blog-details.html">Baca Selengkapnya<i class="fa-solid fa-chevrons-right"></i></a>
+                                <a class="read-more" href="blog-details.php">Baca Selengkapnya<i class="fa-solid fa-chevrons-right"></i></a>
                             </div>
                         </div>
                     </div>
