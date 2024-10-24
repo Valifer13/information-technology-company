@@ -118,7 +118,7 @@ include 'assets/inc/SubFooter.php';
                                 </div>
                                 <div class="content">
                                     <h4 class="title">Waktu Kerja Resmi</h4>
-                                    <span>Monday - Friday: 09:00 - 19:00</span>
+                                    <span>Senin - Jumat: 09:00 - 19:00</span>
                                 </div>
                             </div>
                         </div>
