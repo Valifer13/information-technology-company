@@ -42,7 +42,7 @@ include 'assets/inc/SubFooter.php';
                         <div class="icon"><img src="assets/img/icon/pricing-1.png" alt="icon"></div>
                         <h3 class="title">Plan Dasar</h3>
                         <p>Paket harga untuk perusahaan kecil atau Start up</p>
-                        <h3 class="price">$500 <span>/Bulan</span></h3>
+                        <h3 class="price">2 Jt <span>/Bulan</span></h3>
                         <ul class="pricing-list">
                             <li>Kontrol Pintar Ringan</li>
                             <li>Keamanan Sistem Dasar</li>
@@ -58,7 +58,7 @@ include 'assets/inc/SubFooter.php';
                         <span class="active-text">Populer</span>
                         <h3 class="title">Plan Bisnis</h3>
                         <p>Paket terbaik untuk setiap perusahaan</p>
-                        <h3 class="price">$1,000 <span>/Bulan</span></h3>
+                        <h3 class="price">3 Jt<span>/Bulan</span></h3>
                         <ul class="pricing-list">
                             <li>Kontrol Cerdas Expert</li>
                             <li>Keamanan Sistem Tinggi</li>
@@ -74,7 +74,7 @@ include 'assets/inc/SubFooter.php';
                         <div class="icon"><img src="assets/img/icon/pricing-3.png" alt="icon"></div>
                         <h3 class="title">Plan Enterprise</h3>
                         <p>Paket terbaik untuk perusahaan besar dengan sistem kontrol penuh</p>
-                        <h3 class="price">$1,500 <span>/Bulan</span></h3>
+                        <h3 class="price">5 Jt<span>/Bulan</span></h3>
                         <ul class="pricing-list">
                             <li>Kontrol Cerdas Expert</li>
                             <li>Keamanan Sistem Tertinggi</li>

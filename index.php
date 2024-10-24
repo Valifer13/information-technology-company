@@ -179,8 +179,8 @@ include 'assets/inc/Footer.php';
     <section class="service-section pt-120 pb-120" data-background="assets/img/bg-img/service-bg.png">
         <div class="container">
             <div class="section-heading text-center">
-                <h4 class="sub-heading" data-text-animation="fade-in" data-duration="1.5"><span class="left-shape"></span>Our Services<span class="right-shape"></span></h4>
-                <h2 class="section-title" data-text-animation data-split="word" data-duration="1">Service We Provide</h2>
+                <h4 class="sub-heading" data-text-animation="fade-in" data-duration="1.5"><span class="left-shape"></span>Layanan Kami<span class="right-shape"></span></h4>
+                <h2 class="section-title" data-text-animation data-split="word" data-duration="1">Layanan yang Kami Berikan</h2>
             </div>
             <div class="row fade-wrapper gy-lg-0 gy-4 justify-content-center">
                 <div class="col-lg-4 col-md-6 fade-top">
