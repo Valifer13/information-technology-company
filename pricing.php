@@ -62,7 +62,7 @@ include 'assets/inc/SubFooter.php';
                         <ul class="pricing-list">
                             <li>Kontrol Cerdas Expert</li>
                             <li>Keamanan Sistem Tinggi</li>
-                            <li>Integrasi AI</li>
+                            <li>Integrasi AI 2B</li>
                             <li>Penginstalan Perangkat Gratis</li>
                             <li>24/7 Layanan Kustomer</li>
                         </ul>
@@ -78,7 +78,7 @@ include 'assets/inc/SubFooter.php';
                         <ul class="pricing-list">
                             <li>Kontrol Cerdas Expert</li>
                             <li>Keamanan Sistem Tertinggi</li>
-                            <li>Intergrasi AI</li>
+                            <li>Intergrasi AI 8B</li>
                             <li>Penginstalan Perangkat Gratis</li>
                             <li>24/7 Layanan Kustomer</li>
                         </ul>
